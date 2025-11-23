@@ -1,0 +1,7 @@
+{
+  "name": "SkyBuddy",
+  "description": "SkyBuddy — A cute NPC that tells you weather, mood, outfits, AQI & more!",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
